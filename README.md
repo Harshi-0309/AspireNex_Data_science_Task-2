@@ -1,6 +1,6 @@
                                             AspireNex: Iris Flower Classification
                                                      Domain: Data Science
-Task 3: Iris Flower Classification
+Task 2: Iris Flower Classification
 
 Objective:
 
